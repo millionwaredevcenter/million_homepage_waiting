@@ -1,11 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "millionware-homepage-waiting",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@now/static-build",
-      "config": { "distDir": "./" }
-    }
-  ]
+  "builds": [{ "src": "*.*", "use": "@now/static" }]
 }
