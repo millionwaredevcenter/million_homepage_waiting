@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "name": "millionware-homepage",
+  "name": "millionware-homepage-waiting",
   "builds": [
     {
       "src": "package.json",
