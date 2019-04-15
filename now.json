@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "millionware-homepage",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "." }
+    }
+  ]
+}
