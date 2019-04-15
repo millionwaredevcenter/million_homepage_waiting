@@ -1,0 +1,20 @@
+{
+  "name": "million_homepage_waiting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millionwaredevcenter/million_homepage_waiting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millionwaredevcenter/million_homepage_waiting/issues"
+  },
+  "homepage": "https://github.com/millionwaredevcenter/million_homepage_waiting#readme"
+}
