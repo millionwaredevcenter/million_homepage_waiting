@@ -1,9 +1,5 @@
 {
   "version": 2,
   "name": "millionware-homepage-waiting",
-  "builds": [
-    { "src": "*.*", "use": "@now/static" },
-    { "src": "assets/*", "use": "@now/static" },
-    { "src": "images/*", "use": "@now/static" }
-  ]
+  "builds": [{ "src": "**/*.*", "use": "@now/static" }]
 }
